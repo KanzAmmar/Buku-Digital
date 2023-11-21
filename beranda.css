@@ -1,0 +1,30 @@
+
+
+
+.kotak2{
+	width: 80%;
+	height: 8%;
+	color: white;
+	background-color: green;
+	border: 3px;
+	text-align: center;
+	line-height: 80px;
+	position: fixed;
+}
+
+
+.kotak2 {
+	top: 0;
+	right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
